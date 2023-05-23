@@ -29,9 +29,6 @@ http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&ext
 http://raw.bitnode.pm:81/giorgi/giorgi/20374
 
 
-#EXTINF:-1 group-title="SPORTS THẾ GIỚI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 1
-http://humiptv.live:8080/live/0473936210/8252829362/1961.ts
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="BT SPORTS 1 FHD (50FPS)" tvg-logo="https://i.ibb.co/HFKyZ5M/BTSport1.jpg" group-title="SPORTS THẾ GIỚI",BT SPORTS 1 FHD (50FPS)
 http://raw.bitnode.pm:81/giorgi/giorgi/20360
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="BT SPORTS 2 FHD (50FPS)" tvg-logo="https://i.ibb.co/Tq7b5jG/Btsport2.png" group-title="SPORTS THẾ GIỚI",BT SPORTS 2 FHD (50FPS)
@@ -137,6 +134,9 @@ http://epg.protv.cc:80/play/live.php?mac=00:1A:79:02:9F:0F&stream=971771&extensi
 
 #EXTINF:-1 tvg-id="skysportsmix.uk" tvg-logo="https://i.ibb.co/QrGSRc7/Sky-Sport-Mix.png" group-title="SPORTS THẾ GIỚI", Sky Sports Mix
 http://raw.bitnode.pm:81/giorgi/giorgi/20701
+
+#EXTINF:-1 group-title="SPORTS THẾ GIỚI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 1
+http://humiptv.live:8080/live/0473936210/8252829362/1961.ts
 
 #EXTINF:-1 tvg-id="unbeaten" group-title="SPORTS THẾ GIỚI" tvg-logo="https://i.ibb.co/RP0yMGv/unbeaten.png",🎖️| Unbeaten
 #EXTVLCOPT:network-caching=1000
