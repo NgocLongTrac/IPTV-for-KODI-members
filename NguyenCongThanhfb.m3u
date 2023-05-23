@@ -17,15 +17,17 @@ https://7pal.short.gy/VSportUHD
 https://7pal.short.gy/BTUltimate
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="SPORTS 4K",SkySportsF1
 https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 4K ULTRA HDR STARHUB" tvg-logo="https://i.postimg.cc/RZM2vqmM/Star-Hub-2021.png" group-title="4K/8K Thử Nghiệm",EPL 4K ULTRA HDR STARHUB
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="EPL 4K ULTRA HDR STARHUB" tvg-logo="https://i.postimg.cc/RZM2vqmM/Star-Hub-2021.png" group-title="SPORT 4K",EPL 4K ULTRA HDR STARHUB
 http://raw.bitnode.pm:81/giorgi/giorgi/1124634
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SkySportsF1UHD" tvg-logo="https://i.ibb.co/gTd6Hnn/1280px-Sky-Sport-F1-Logo-2018-svg.png" group-title="SPORT 4K",Sky Sports F1 ⁴ᴷ
+http://nv1connect.com:80/12345678/87654321/73791
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TH06dMG/Canal-4-K-UHD.png" group-title="SPORT 4K",⚽ CANAL+ FOOT ⁴ᴷ
+http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
+
 
 #EXTINF:-1 tvg-id="mutv" tvg-logo="https://i.ibb.co/87ggMSv/MU.png" group-title="SPORTS THẾ GIỚI",⚽ MU-CLub
 http://raw.bitnode.pm:81/giorgi/giorgi/20374
-#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="SkySportsF1UHD" tvg-logo="https://i.ibb.co/gTd6Hnn/1280px-Sky-Sport-F1-Logo-2018-svg.png" group-title="4K/8K Thử Nghiệm",Sky Sports F1 ⁴ᴷ
-http://nv1connect.com:80/12345678/87654321/73791
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TH06dMG/Canal-4-K-UHD.png" group-title="4K/8K Thử Nghiệm",⚽ CANAL+ FOOT ⁴ᴷ
-http://theking365tv.ws:2103/play/live.php?mac=00:1A:79:5c:f4:67&stream=24083&extension=ts&play_token=70AEFyMfql
+
 
 #EXTINF:-1 group-title="SPORTS THẾ GIỚI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png",Canal+ Sport 1
 http://humiptv.live:8080/live/0473936210/8252829362/1961.ts
