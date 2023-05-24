@@ -1,1 +1,1 @@
-# IPTV-for-KODI-members
+# KODI.members
